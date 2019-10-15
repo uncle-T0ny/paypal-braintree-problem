@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "braintree": "^2.15.0",
+    "braintree-web": "^3.53.0",
+    "paypal-checkout": "^4.0.291",
+    "paypal-rest-sdk": "^1.8.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
